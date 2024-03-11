@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xEfBd035BacAd42BC8Cd281f28C94a28665B2Acd7",
+  "SCAN_LINK": "https://polygonscan.com/address/0xefbd035bacad42bc8cd281f28c94a28665b2acd7",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Super Skeleton",
+  "SYMBOL": "SS",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 560,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/super-skeleton-2",
+  "SHOW_BACKGROUND": true
+}
